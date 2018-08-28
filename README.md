@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://gifmaker.me/PlayVideoAnimation.php?folder=2018082714jO3Lo5marMMLSXTpwiF29x&file=output_Uq6Nsv.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/fayrouzmikhael/Desktop/1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
