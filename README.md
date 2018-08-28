@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= "Tip-Calculator-/1.gif " title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= "https://github.com/fayrouz-mikhael/Tip-Calculator-/blob/master/1.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
